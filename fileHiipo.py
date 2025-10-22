@@ -37,3 +37,5 @@ print(str2.lower())  #convert string to lower
 
 
 
+
+
